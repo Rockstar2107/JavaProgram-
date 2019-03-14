@@ -1,2 +1,2 @@
-# JavaProgram-
+# JavaProgram
 Java Program to test 
